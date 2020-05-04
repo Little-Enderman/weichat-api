@@ -1,1 +1,1 @@
-echo "web: python hello.py 5000" > Procfile
+web: python2.7 main.py 80
