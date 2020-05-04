@@ -1,7 +1,0 @@
-hashlib==20081119
-lxml==4.5.0
-pyOpenSSL==19.0.0
-python-dateutil==1.5
-python-xlib==0.27
-web.py==0.51
-weblib==0.1.30
