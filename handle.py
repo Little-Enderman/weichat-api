@@ -16,6 +16,7 @@ class Handle(object):
             echostr = data.echostr
             token = "Endermanwithhim1989" #请按照公众平台官网\基本配置中信息填写
 
+
             list = [token, timestamp, nonce]
             list.sort()
             sha1 = hashlib.sha1()
