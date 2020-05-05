@@ -1,1 +1,1 @@
-web: python main.py 80
+web: python2.7 main.py 80
