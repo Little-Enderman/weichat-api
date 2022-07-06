@@ -1,6 +1,6 @@
 web.py==0.51
 weblib==0.1.30
-lxml==4.5.0
+lxml==4.9.1
 reply==0.2
 request==2019.4.13
 requests==2.23.0
